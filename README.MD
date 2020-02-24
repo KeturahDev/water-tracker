@@ -1,4 +1,4 @@
-# Water tacker 
+# Water Tracker 
 
 #### _Team week project_, _17th Feb. 2020_
 
